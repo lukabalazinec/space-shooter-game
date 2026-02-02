@@ -1,0 +1,29 @@
+# Unity generated
+/Library/
+/Logs/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/UserSettings/
+
+# Visual Studio / IDE
+/.vs/
+/*.csproj
+/*.sln
+/*.user
+/*.userprefs
+/*.pidb
+/*.suo
+/*.userosscache
+/*.sln.docstates
+
+# Unity packages cache
+/Library/PackageCache/
+
+# Crash reports
+sysinfo.txt
+
+# OS
+Thumbs.db
+Desktop.ini
