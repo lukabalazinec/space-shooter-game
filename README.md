@@ -13,3 +13,6 @@ This project implements a 2D arcade-style space shooter game developed using the
 - Unity Game Engine
 - C# scripting support (included with Unity)
 - Unity Hub
+
+### Video Explanation
+[![Project Video](https://img.youtube.com/vi/oEp4zpWI-JE/0.jpg)](https://www.youtube.com/watch?v=oEp4zpWI-JE)
